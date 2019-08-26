@@ -1,0 +1,8 @@
+.product-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    border: 1px solid red;
+    width: 260px;
+}
